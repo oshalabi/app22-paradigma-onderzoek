@@ -7,16 +7,15 @@ Lever het rapport op met de source-code van je Challenge als bijlage in zip-form
 # Stappenplan
 Je kunt deze opdracht op twee manieren aanpakken: beginnen bij een (functionele) programmeertaal en daar een Challenge bij zoeken, of beginnen bij een Challenge, en daar een programmeertaal bij zoeken. Begin daar in week 1 mee, dan is het nog rustig. Na feedback van studenten (dit gebeurt toch niet...) hebben we de deadline naar voren gehaald. Aan het van dit blok heb je het druk met alle drie vakken APP, SWA, en Skills. 
 Zorg dat je de combinatie Taal en Challenge in de eerste twee weken vertaalt naar een (klein) onderzoeksplan, en check dat met je docent. Een mogelijk tijdspad:
-Markup :
-1-	Week 1 en 2: 
+*	Week 1 en 2: 
     -	selecteer een Functionele Programmeertaal en een Challenge;
     -	schrijf een kort onderzoeksplan (inleiding, vraagstelling met Challenge en het verband met functionele concepten, deelvragen en hoe je die beantwoorden wilt met referentie naar de methodenkaart, tijdpad, literatuur waarmee je begint);
     -	check je onderzoeksplan en je Challenge met je docent –deze check is verplicht.
-2-	Week 3: maak jezelf vertrouwd met de gekozen programmeertaal en de functionele concepten.
-3-	Week 4: werk je Challenge zelfstandig uit en schrijf het onderzoeksverslag:
+*	Week 3: maak jezelf vertrouwd met de gekozen programmeertaal en de functionele concepten.
+*	Week 4: werk je Challenge zelfstandig uit en schrijf het onderzoeksverslag:
     -	de Challenge en het verslag moeten eigen werk zijn, geen vondsten op internet;
     -	refereer in het verslag naar de functionele concepten die je in de code van je Challenge gebruikt.
-4- Week 5 (check voor de exacte deadline iSAS): inleveren – je zult het met andere zaken druk hebben, dus laat het niet op deze week aankomen.
+* Week 5 (check voor de exacte deadline iSAS): inleveren – je zult het met andere zaken druk hebben, dus laat het niet op deze week aankomen.
 
 # Suggesties voor Functionele Talen
 Hoewel het lastig te controleren is, is het expliciet de bedoeling dat je een programmeertaal kiest die je niet kent. Het leren van een taal die je al kent oefent niets.
