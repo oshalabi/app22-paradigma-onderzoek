@@ -7,6 +7,7 @@ Lever het rapport op met de source-code van je Challenge als bijlage in zip-form
 # Stappenplan
 Je kunt deze opdracht op twee manieren aanpakken: beginnen bij een (functionele) programmeertaal en daar een Challenge bij zoeken, of beginnen bij een Challenge, en daar een programmeertaal bij zoeken. Begin daar in week 1 mee, dan is het nog rustig. Na feedback van studenten (dit gebeurt toch niet...) hebben we de deadline naar voren gehaald. Aan het van dit blok heb je het druk met alle drie vakken APP, SWA, en Skills. 
 Zorg dat je de combinatie Taal en Challenge in de eerste twee weken vertaalt naar een (klein) onderzoeksplan, en check dat met je docent. Een mogelijk tijdspad:
+Markup :
 1-	Week 1 en 2: 
     -	selecteer een Functionele Programmeertaal en een Challenge;
     -	schrijf een kort onderzoeksplan (inleiding, vraagstelling met Challenge en het verband met functionele concepten, deelvragen en hoe je die beantwoorden wilt met referentie naar de methodenkaart, tijdpad, literatuur waarmee je begint);
