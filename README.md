@@ -69,9 +69,9 @@ Nieuw (2021-2022): geen vink maar een eindcijfer.
 Nieuw (2022-2023): de Challenge mag geen O zijn.
 Het eindcijfer wordt als volgt berekend:
 *	eindcijfer:  6 + aantal(G) - aantal(O), maar je krijgt maximaal een 5 als:
-  o	meer dan één onderdeel een O is,
-  o	je Challenge een O is,
-  o	je niet voldoet aan de AIM contrôlekaart.
+  -	meer dan één onderdeel een O is,
+  -	je Challenge een O is,
+  -	je niet voldoet aan de AIM contrôlekaart.
 Eén O kun je dus compenseren, meer niet.
 
 
