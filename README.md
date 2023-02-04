@@ -21,39 +21,39 @@ Zorg dat je de combinatie Taal en Challenge in de eerste twee weken vertaalt naa
 Hoewel het lastig te controleren is, is het expliciet de bedoeling dat je een programmeertaal kiest die je niet kent. Het leren van een taal die je al kent oefent niets.
 Veel functionele talen hebben ook links met andere paradigma’s. Dat is geen probleem, zolang je maar de nadruk legt op de functionele aspecten. Talen die ‘ook OO’ zijn kun je beter vermijden, dat maakt het te gemakkelijk om op ‘oude gewoonten’ terug te vallen. Een eigen voorstel is ook mogelijk, mits je het op tijd aanvraagt en je docent het goedkeurt.
 
-•	Taal: Erlang
-  o	Paradigma: functioneel/proces
-  o	Wat bijzonderheden: 
-    	focus op robuustheid
-    	hotswapping code
-    	oorspronkelijk voor embedded systemen
-•	Taal: Clojure
-  o	Paradigma: functioneel/symbolisch
-  o	Wat bijzonderheden:
-    	JVM platform / Java integratie
-    	Lisp familie
-    	Meta-programming
-•	Taal: Haskell
-  o	Paradigma: functioneel (puur)
-  o	Wat bijzonderheden:
-    	geen functies met zijeffecten
-    	Lazy Evaluation (o.a. oneindige structuren)
-•	Taal: Racket
-  o	Paradigma: Multi, o.a. functioneel, logisch
-  o	Wat bijzonderheden: 
-    	gebaseerd op de oudste functionele programmeertaal Lisp
-    	ook meta-programmeren mogelijk
-    	platform gratis en open-source
-•	Taal: eigen voorstel, mits (deels) functioneel
-  o	Check je voorstel bij je docent, niet later dan eind week 2
-  o	Als het een leuk idee is kan het in deze lijst worden opgenomen!
+*	Taal: Erlang
+  -	Paradigma: functioneel/proces
+  -	Wat bijzonderheden: 
+    -	focus op robuustheid
+    -	hotswapping code
+    -	oorspronkelijk voor embedded systemen
+*	Taal: Clojure
+  -	Paradigma: functioneel/symbolisch
+  -	Wat bijzonderheden:
+    -	JVM platform / Java integratie
+    -	Lisp familie
+    -	Meta-programming
+*	Taal: Haskell
+  -	Paradigma: functioneel (puur)
+  -	Wat bijzonderheden:
+    -	geen functies met zijeffecten
+    -	Lazy Evaluation (o.a. oneindige structuren)
+*	Taal: Racket
+  -	Paradigma: Multi, o.a. functioneel, logisch
+  -	Wat bijzonderheden: 
+    -	gebaseerd op de oudste functionele programmeertaal Lisp
+    -	ook meta-programmeren mogelijk
+    -	platform gratis en open-source
+*	Taal: eigen voorstel, mits (deels) functioneel
+  -	Check je voorstel bij je docent, niet later dan eind week 2
+  -	Als het een leuk idee is kan het in deze lijst worden opgenomen!
   
 # Suggesties voor Challenges
 Juist hier is het leuk om een eigen voorstel te doen. Check dit op tijd, uiterlijk eind week 2, bij je docent. Als het een leuk en goed voorstel is, nemen we dat graag op in onderstaande lijst.
 Een paar suggesties voor de mensen die nog geen idee hebben:
-•	LZW compressie in Clojure
-•	JSON parser in Haskell
-•	Boom van Pythagoras in Racket
+*	LZW compressie in Clojure
+*	JSON parser in Haskell
+*	Boom van Pythagoras in Racket
 
 # Toets-eisen
 [PO_Paradigma 1] Onderzoek voldoet aan SD-criteria voor onderzoeken (methodenkaart).
@@ -68,7 +68,7 @@ Zie nakijkmal. Elk van de vier onderdelen wordt beoordeeld met een O, V, of G.
 Nieuw (2021-2022): geen vink maar een eindcijfer.
 Nieuw (2022-2023): de Challenge mag geen O zijn.
 Het eindcijfer wordt als volgt berekend:
-•	eindcijfer:  6 + aantal(G) - aantal(O), maar je krijgt maximaal een 5 als:
+*	eindcijfer:  6 + aantal(G) - aantal(O), maar je krijgt maximaal een 5 als:
   o	meer dan één onderdeel een O is,
   o	je Challenge een O is,
   o	je niet voldoet aan de AIM contrôlekaart.
