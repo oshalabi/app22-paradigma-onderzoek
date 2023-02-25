@@ -14,7 +14,7 @@ makeMove board player col = setCell board row col (Occupied player)
   where row = getNextRow board col
 
 isColumnFull :: Board -> Int -> Bool
-isColumnFull board col = board !! 0 !! col /= Empty
+isColumnFull board col = board !! (length board - 1) !! col /= Empty
 
 getNextRow :: Board -> Int -> Int
 getNextRow board col = length (takeWhile (\row -> board !! row !! col /= Empty) [0..5])

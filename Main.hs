@@ -12,6 +12,9 @@ run :: Board -> Player -> IO ()
 run board player = do
   printBoard board
   col <- randomRIO (0, 6)
+  --putStrLn ("Player " ++ show player ++ ", enter a column number:")
+  --colStr <- getLine
+  --let col = read colStr :: Int
   if isColumnFull board col
     then do
       putStrLn "This column is full, please choose another column."
