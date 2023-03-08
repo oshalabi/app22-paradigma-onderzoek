@@ -1,7 +1,6 @@
 module Player where 
 
 import System.Random
-import Control.Monad (when)
 
 data Player = X | O deriving (Eq, Show)
 
