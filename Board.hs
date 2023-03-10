@@ -55,20 +55,21 @@ run board player = do
   --putStrLn ("Player " ++ show player ++ ", enter a column number:")
   --colStr <- getLine
   --let col = read colStr :: Int
-  if isColumnFull board col
+  let board' = makeMove board player col
+  let winner = checkWin board' player
+  let draw = isGameOver board' player
+  let boardIsfull = isColumnFull board col
+  if winner
+    then do 
+      printBoard board'
+      putStrLn ("Player " ++ show player ++ " has won the game!")
+  else if draw
+    then do
+      printBoard board'
+      putStrLn "The game resulted in a draw."
+  else if boardIsfull
     then do
       putStrLn "This column is full, please choose another column."
       run board player
-    else do
-      let board' = makeMove board player col
-      let winner = checkWin board' player
-      let draw = isGameOver board' player
-      if winner 
-        then do
-          printBoard board'
-          putStrLn ("Player " ++ show player ++ " has won the game!")
-      else if draw
-        then do 
-          printBoard board'
-          putStrLn "The game resulted in a draw."
-      else run board' (nextPlayer player)
+  else run board' (nextPlayer player)
+    
